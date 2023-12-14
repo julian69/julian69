@@ -3,14 +3,14 @@ I'm Julian, a Senior Front-End Engineer with over 10 years of experience. I have
 
 Here you can take a look at some demos I've been working on:
 
-## The Wheather app:
-Repo: https://github.com/julian69/react-weather-app
-Demo: https://julian69.github.io/react-weather-app/
+### The Wheather app:
+Repo: https://github.com/julian69/react-weather-app  
+Demo: https://julian69.github.io/react-weather-app/  
 
-## Reminders Calendar:
-Repo: https://github.com/julian69/ts-react-calendar
-Demo: https://julian69.github.io/ts-react-calendar/
+### Reminders Calendar:
+Repo: https://github.com/julian69/ts-react-calendar  
+Demo: https://julian69.github.io/ts-react-calendar/  
 
-## Mern/CRUD authentication:
-Repo: https://github.com/julian69/mern-crud-auth
-Demo: In progress
+### MERN/CRUD authentication:
+Repo: https://github.com/julian69/mern-crud-auth  
+Demo: In progress  
