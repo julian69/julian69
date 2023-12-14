@@ -1,16 +1,16 @@
-### Hi there 👋
+Hi!
+I'm Julian, a Senior Front-End Engineer with over 10 years of experience. I have a strong track record of crafting user-friendly and efficient web interfaces. Notably, I bring extensive remote work experience, having successfully collaborated with companies in Argentina, Canada, New Zealand, Germany, and the US. My versatile skill set and commitment to delivering high-quality solutions make me a valuable asset for projects across diverse geographical boundaries.
 
-<!--
-**julian69/julian69** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Here you can take a look at some demos I've been working on:
 
-Here are some ideas to get you started:
+## The Wheather app:
+Repo: https://github.com/julian69/react-weather-app
+Demo: https://julian69.github.io/react-weather-app/
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Reminders Calendar:
+Repo: https://github.com/julian69/ts-react-calendar
+Demo: https://julian69.github.io/ts-react-calendar/
+
+## Mern/CRUD authentication:
+Repo: https://github.com/julian69/mern-crud-auth
+Demo: In progress
