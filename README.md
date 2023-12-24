@@ -8,5 +8,5 @@ As most of the projects I've worked on are not public, here you can sneak peak a
 ### Reminders Calendar:
 [Repo](https://github.com/julian69/ts-react-calendar), [Demo](https://julian69.github.io/ts-react-calendar/)  
 
-### MERN/CRUD authentication:
+### MERN // Authentication & Task manager:
 [Repo](https://github.com/julian69/mern-crud-auth), Demo: In progress   
