@@ -10,3 +10,6 @@ As most of the projects I've worked on are not public, here you can sneak peak a
 
 ### MERN // Authentication & Task manager:
 [Repo](https://github.com/julian69/mern-crud-auth), Demo: In progress   
+
+### Filters:
+[Repo](https://github.com/julian69/ts-react-query-filters), , Demo: In progress
